@@ -1,0 +1,9 @@
+•	Used Hibernate for persistence layer
+•	I was responsible for coding of DAO classes using Spring with hibernate.
+•	Implemented MVC architecture using Spring framework,
+•	I was responsible for coding POJO Classes.
+•	Implemented Business logic.
+•	Used Hibernate as the ORM tool to communicate with the database
+•	Developed Hibernate Configuration files for MySQL.
+•	Involved in functional testing and bug fixing
+•	Used JavaScript and jQuery for providing client-side validation and Spring Validator for server-side validation
