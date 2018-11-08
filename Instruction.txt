@@ -7,3 +7,6 @@ Hello this is me trying to mess with my code locally
 =======
 hey again this is me trying to mess with the code on the remote repo
 >>>>>>> 47c8943b74ef96edc24d0ecca18c8332f2971f10
+
+
+Change made in sample branch
