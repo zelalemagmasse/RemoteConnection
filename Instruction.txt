@@ -1,5 +1,9 @@
 Here are my instructions for the exam
 please see the instruction to work with the updated site
 this is amir group
+<<<<<<< HEAD
 
 Hello this is me trying to mess with my code locally 
+=======
+hey again this is me trying to mess with the code on the remote repo
+>>>>>>> 47c8943b74ef96edc24d0ecca18c8332f2971f10
